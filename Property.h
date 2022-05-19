@@ -6,6 +6,7 @@
 #define SIZE2 2
 
 class Property
+
 {
 private:
 	int propertyId;

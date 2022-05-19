@@ -6,6 +6,7 @@ Property::Property()
 	propertyId = 0;
 }
 
+
 Property::Property(int pId)
 {
     propertyId = pId;
